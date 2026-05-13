@@ -1,4 +1,4 @@
-# LinkedIn Post Studio
+# LinkedIn Post Generator
 
 A multi-agent AI system that generates high-quality LinkedIn posts through structured orchestration, iterative self-review loops, and creator-style prompt engineering.
 
