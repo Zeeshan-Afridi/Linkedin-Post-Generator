@@ -38,7 +38,6 @@ Posts are written in the style of **Jasmin Alic** — short punchy lines, number
 - Python
 - OpenAI API (GPT-4o-mini)
 - LangChain
-- Streamlit (UI)
 
 ---
 
@@ -71,12 +70,6 @@ Add your OpenAI key to `.env`:
 OPENAI_API_KEY=your_key_here
 ```
 
-Run the Streamlit app:
-
-```bash
-streamlit run app.py
-```
-
 Or use the CLI:
 
 ```bash
@@ -101,6 +94,5 @@ python main.py
 openai
 langchain
 langchain-openai
-streamlit
 python-dotenv
 ```
